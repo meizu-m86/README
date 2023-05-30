@@ -1,0 +1,22 @@
+##### 减少 proprietary blobs,部分动态库使用源码编译
+
+- [x] libexynosutils
+- [x] libexynosv4l2
+- [x] libion_exynos
+- [x] libexynosscaler
+- [x] libexynosgscaler
+- [x] libmpp
+- [x] libcsc
+- [x] libstagefrighthw
+- [x] memtrack.exynos5
+- [x] libtfa9890
+- [x] climax_tfa9890
+- [x] libExynosHWCService
+- [x] libhdmimodule
+- [x] libhdmi
+- [x] libvirtualdisplay
+- [x] libvirtualdisplaymodule
+- [x] gralloc.exynos5
+- [x] libhwcutils
+- [x] libhwcutilsmodule
+- [ ] ...
