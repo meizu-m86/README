@@ -15,7 +15,7 @@
 - [x] 1.编译 ResurrectionRemix nougat
 - [x] 2.编译 LineageOS cm-14.1
 - [ ] 3.减少 proprietary blobs
-- [ ] 4.适配 halium-7.1
+- [x] 4.适配 halium-7.1
 
 
 #### 奢望工作事项
