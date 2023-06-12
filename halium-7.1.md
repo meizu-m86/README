@@ -1,22 +1,71 @@
-##### 适配 halium-7.1
+### 适配 halium-7.1
 
-- [x] 编译构建
-- [x] USB网络
-- [x] 启动画面
-- [x] 进入系统界面
-- [x] 触屏
-- [ ] 蓝牙
-- [x] 电量检测
-- [ ] 声音
-- [ ] 视频解码
-- [ ] 摄像头
-- [x] WIFI
-- [ ] 电话系统-打电话
-- [ ] 电话系统-发短信
-- [ ] 电话系统-数据网络
-- [x] 重力方向感应
-- [x] 按键-电源键
-- [ ] 按键-音量键
-- [ ] 按键-中键
-- [ ] 按键-中键-指纹
+#### Actors:
+- [ ] Manual brightness
+- [ ] Notification LED
+- [ ] Torchlight
+- [ ] Vibration
+
+#### Camera:
+- [ ] Flashlight
+- [ ] Photo
+- [ ] Video
+- [ ] Switching between cameras
+
+#### Cellular:
+- [ ] Dual SIM functionality
+- [ ] Carrier info, signal strength
+- [ ] Data connection
+- [ ] Incoming, outgoing calls
+- [ ] MMS in, out
+- [ ] PIN unlock
+- [ ] SMS in, out
+- [ ] Change audio routings
+- [ ] Voice in calls
+- [ ] Volume control in calls
+
+#### Endurance:
+- [ ] 24+ hours battery lifetime
+- [ ] 7+ days stability
+
+#### GPU:
+- [x] Boot into UI
+- [ ] Hardware video playback
+
+#### Misc:
+- [x] Anbox patches (deprecated)
+- [x] AppArmor patches
+- [x] Battery percentage
+- [ ] Offline charging
+- [x] Online charging
+- [ ] Recovery image
+- [ ] Reset to factory defaults
+- [ ] SD card detection and access
+- [x] RTC time
+- [x] Shutdown / Reboot
+- [ ] Wireless External monitor
+
+#### Network:
+- [ ] Bluetooth
+- [ ] Flight mode
+- [ ] Hotspot
+- [x] WiFi
+
+#### Sensors:
+- [ ] Automatic brightness
+- [ ] Fingerprint reader
+- [ ] GPS
+- [ ] Proximity
+- [x] Rotation
+- [x] Touchscreen
+
+#### Sound:
+- [ ] Earphones
+- [ ] Loudspeaker
+- [ ] Microphone
+- [ ] Volume control
+
+#### USB:
+- [ ] MTP access
+- [ ] ADB access
 
