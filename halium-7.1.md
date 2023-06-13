@@ -1,10 +1,10 @@
 ### 适配 halium-7.1
 
 #### Actors:
-- [ ] Manual brightness
-- [ ] Notification LED
+- [x] Manual brightness
+- [x] Notification LED
 - [ ] Torchlight
-- [ ] Vibration
+- [x] Vibration
 
 #### Camera:
 - [ ] Flashlight
@@ -46,15 +46,15 @@
 - [ ] Wireless External monitor
 
 #### Network:
-- [ ] Bluetooth
-- [ ] Flight mode
+- [x] Bluetooth
+- [x] Flight mode
 - [ ] Hotspot
 - [x] WiFi
 
 #### Sensors:
 - [ ] Automatic brightness
 - [ ] Fingerprint reader
-- [ ] GPS
+- [x] GPS
 - [ ] Proximity
 - [x] Rotation
 - [x] Touchscreen
