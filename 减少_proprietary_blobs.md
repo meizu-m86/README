@@ -19,4 +19,6 @@
 - [x] gralloc.exynos5
 - [x] libhwcutils
 - [x] libhwcutilsmodule
+- [x] hwcomposer.exynos5
+- [x] audio.primary.m86
 - [ ] ...
